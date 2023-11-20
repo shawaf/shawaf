@@ -1,12 +1,12 @@
 # Mohamed Elshawaf 
 
-Hello, I'm Mohamed Elshawaf Mobile Software Engineer from Egypt, Tech Lover 
+Hello, I'm Mohamed Elshawaf Mobile Software Engineer from Egypt and Tech Lover. 
 
-I have been working on software development field for about 10 years for so many companies 
+I have been working in the software development field for about 10 years for so many companies.
 
-I love making apps in Android/IOS with latest technology stacks and using most clean architecture patterns out there
+I love making apps in Android/IOS with the latest technology stacks and using most cleanest architecture patterns out there
 
-I also passionate about exploring and writing code in different plateforms so you will find me writing in NodeJs and doing some devOps.
+I am also passionate about exploring and writing code on different platforms so you will find me writing in NodeJs and doing some DevOps.
 
 ### You can find me here: 
 [![gmail-icon-512x511-fih5xfbp](https://github.com/shawaf/My-Github-Profile/assets/6817107/973a5928-f001-4d8d-bac9-5e1a148edd0e)](mailto:mohamed.elshawaf.1@gmail.com)&nbsp;&nbsp;&nbsp;[![linkedin](https://github.com/shawaf/My-Github-Profile/assets/6817107/4eba3f75-a940-4e8b-9b43-23d17b555ab7)
