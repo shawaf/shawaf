@@ -1,6 +1,12 @@
 # Mohamed Elshawaf 
 
 Hey there, welcome to my Github page. 
+I'm software engineer working on projects in 
+- Android ( JAVA / Kotlin )
+- IOS ( SWIFT )
+- Flutter
+- NodeJs ( Express / Nest )
+ 
 
 ### You can contact me here: 
 [![gmail-icon-512x511-fih5xfbp](https://github.com/shawaf/shawaf/assets/6817107/361bbf10-6f6c-4dd1-94c7-3c51bd178c32)
