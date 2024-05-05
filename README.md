@@ -1,7 +1,7 @@
 # Mohamed Elshawaf 
 
 Hey there, welcome to my Github page. 
-I'm software engineer working on projects in 
+I'm a software engineer that can help you building projects in 
 - Android ( JAVA / Kotlin )
 - IOS ( SWIFT )
 - Flutter
