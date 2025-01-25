@@ -11,7 +11,7 @@ Hi👋, welcome to my GitHub profile! I'm Mohamed Elshawaf, a Software Engineer,
 - 🏗️ My work includes creating scalable applications in the medical, fintech, and e-commerce sectors.
   
  #### Contact: 
-[![mail-01-stroke-rounded](https://github.com/shawaf/shawaf/assets/6817107/aab05249-52a5-4646-bb6b-c6449afb3d40)](mailto:mohamed.elshawaf.1@gmail.com)&nbsp;&nbsp;[![linkedin-01-stroke-rounded](https://github.com/shawaf/shawaf/assets/6817107/d71c1376-469a-44b7-b067-535ab76a96f5)](https://www.linkedin.com/in/melshawaf/)&nbsp;&nbsp;[![webflow-rectangle-stroke-rounded](https://github.com/shawaf/shawaf/assets/6817107/03e0be00-9b04-42d0-8a97-fe3febdabc35)](https://www.theshawaf.com/)
+[![mail-01-stroke-rounded](https://github.com/shawaf/shawaf/assets/6817107/aab05249-52a5-4646-bb6b-c6449afb3d40)](mailto:mohamed.elshawaf.1@gmail.com)&nbsp;&nbsp;[![linkedin-01-stroke-rounded](https://github.com/shawaf/shawaf/assets/6817107/d71c1376-469a-44b7-b067-535ab76a96f5)](https://www.linkedin.com/in/melshawaf/)&nbsp;&nbsp;[![webflow-rectangle-stroke-rounded](https://github.com/shawaf/shawaf/assets/6817107/03e0be00-9b04-42d0-8a97-fe3febdabc35)](https://www.shawaf.me/)
 
 #### Stats
 
