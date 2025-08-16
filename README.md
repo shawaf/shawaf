@@ -2,11 +2,12 @@
 
 Hi👋, welcome to my GitHub profile! I'm Mohamed Elshawaf, a Software Engineer, and here's a bit about me:
 
-- 🧔 I have over 10 years of experience in software development, primarily focused on mobile app development.
-- 📱 I can help build mobile apps in:
+- 🧔 I have over 10 years of experience in software development, primarily focused on mobile app and backend development.
+- 📱 I can help build mobile apps using:
    - Android (Java / Kotlin)
    - IOS (Swift)
    - Flutter
+   - GCP
 - 💻 I also have experience in building backend projects using Node.js (Express / Nest) and working with various Google Cloud Platform services, such as Cloud Functions, Cloud Run, and Cloud Build.
 - 🏗️ My work includes creating scalable applications in the medical, fintech, and e-commerce sectors.
   
