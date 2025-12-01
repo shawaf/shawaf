@@ -1,23 +1,54 @@
-# About Me
+<h1 align="center">Hi, I'm Mohamed Elshawaf (Shawaf) 👋</h1>
 
-Hi👋, welcome to my GitHub profile! I'm Mohamed Elshawaf, a Software Engineer, and here's a bit about me:
+<p align="center">
+  <b>Software Engineer · Mobile · Backend · DevOps<GCP> </b><br/>
+  Cairo, Egypt · <a href="https://shawaf.me" target="_blank">shawaf.me</a>
+</p>
 
-- 🧔 I have over 10 years of experience in software development, primarily focused on mobile app and backend development.
-- 📱 I can help build mobile apps using:
-   - Android (Java / Kotlin)
-   - IOS (Swift)
-   - Flutter
-   - GCP
-- 💻 I also have experience in building backend projects using Node.js (Express / Nest) and working with various Google Cloud Platform services, such as Cloud Functions, Cloud Run, and Cloud Build.
-- 🏗️ My work includes creating scalable applications in the medical, fintech, and e-commerce sectors.
-  
- #### Contact: 
-[![mail-01-stroke-rounded](https://github.com/shawaf/shawaf/assets/6817107/aab05249-52a5-4646-bb6b-c6449afb3d40)](mailto:mohamed.elshawaf.1@gmail.com)&nbsp;&nbsp;[![linkedin-01-stroke-rounded](https://github.com/shawaf/shawaf/assets/6817107/d71c1376-469a-44b7-b067-535ab76a96f5)](https://www.linkedin.com/in/melshawaf/)&nbsp;&nbsp;[![webflow-rectangle-stroke-rounded](https://github.com/shawaf/shawaf/assets/6817107/03e0be00-9b04-42d0-8a97-fe3febdabc35)](https://www.shawaf.me/)
+---
 
-#### Stats
+## 👨‍💻 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawaf&layout=compact)
+- 💼 Software engineer with strong focus on **NodeJs**, **Android**, **Flutter**, **GCP**,.
+- 🏗️ I enjoy building **clean-architecture**, **testable**, and **scalable** apps.
+- ☁️ Heavy user of **Google Cloud Platform** (Cloud Run, GKE, Pub/Sub, Cloud Storage, Cloud Functions, Cloud Build, etc.).
+- 🩺 Worked a lot in **medical/healthcare**, plus **fintech**, **e-commerce**, and **tools for developers**.
+- 🧠 I care about good design: **architecture**, **DX (developer experience)**, and **clear documentation**.
 
+---
 
+## 🛠 Tech Stack
 
+**Mobile**
+- Android (Kotlin / Java, Jetpack, Compose, Coroutines, Flow)
+- iOS (Swift, SwiftUI, UIKit)
+- Flutter (Dart, BLoC / Provider / Riverpod, Clean Architecture)
 
+**Backend & Cloud**
+- Node.js (Express, NestJS)
+- REST APIs, WebSockets
+- GCP: Cloud Run, Cloud Functions, GKE, Pub/Sub, Cloud Storage, Cloud Build, Secret Manager
+
+**Data & Tools**
+- Firebase (Auth, Firestore, Storage)
+- MongoDB, MySQL, PostgreSQL
+- CI/CD with GitHub Actions, Cloud Build
+- Docker, Kubernetes, Helm
+
+---
+
+## 🎯 What I’m Currently Interested In
+
+- **Distributed pipelines** and **workflow engines** (e.g. microservices orchestration on GCP).
+- **Developer tools** that make teams faster: plugins, CLIs, dashboards.
+- Mixing **UX**, **performance**, and **clean code** in production apps.
+
+---
+
+## 📫 How to Reach Me
+
+- 🌐 Website: [shawaf.me](https://shawaf.me)
+- 💼 LinkedIn: [Mohamed Elshawaf](https://www.linkedin.com/in/melshawaf/)
+- 📧 Email: mohamed.elshawaf.1@gmail.com
+
+If you’re interested in collaborating on mobile apps, cloud backends, or developer tooling, feel free to reach out or open an issue in any repo. 🙂
